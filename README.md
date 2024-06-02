@@ -1,10 +1,10 @@
 # ST0256 Tópicos Especiales en Telemática
-Estudiante:
-Nombre: Maria Paulina López Salazar
-Correo: mplopezs@eafit.edu.co
-Profesor:
-Nombre: Álvaro Ospina Sanjuan
-Correo: aeospinas@eafit.edu.co
+Estudiante: <br>
+Nombre: Maria Paulina López Salazar <br>
+Correo: mplopezs@eafit.edu.co <br>
+Profesor: <br>
+Nombre: Álvaro Ospina Sanjuan <br>
+Correo: aeospinas@eafit.edu.co <br>
 ## Proyecto 3 - Spark con Notebooks y PySpark
 Inicializando las configuraciones para la conexión y realizando la carga de datos.
 ![image](https://github.com/Paulina-Lopez/ProjectN-3-TET/assets/83301681/2e08d6ce-99ae-4bfe-b537-f783aa116b9f)
